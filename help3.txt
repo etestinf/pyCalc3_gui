@@ -1,0 +1,30 @@
+Calculator 3.xx User Instruction
+
+Software Requirements:
+
+    Python 3.x
+    Tkinter library (included in standard Python distribution)
+
+Instructions:
+
+    Ensure that Python 3.x is installed on your computer. If not, download and install Python from the official Python website (https://www.python.org).
+
+    Open a terminal or command prompt and navigate to the directory where you saved the calculator.py file.
+
+    Run the calculator by executing the following command in the terminal or command prompt:
+
+python calculator2.1x.py
+
+    The calculator window will appear with a text entry field and buttons for performing calculations.
+
+    To perform basic arithmetic calculations, enter an expression using numbers and the following operators: + (addition), - (subtraction), * (multiplication), and / (division). 
+For example, to calculate 5 + 3, enter 5 + 3 in the text entry field and press Enter or click the = button. The result will be displayed in the calculator window.
+
+    The calculator also supports additional functions such as ^ (exponentiation), ln (natural logarithm), lg (base 10 logarithm), sin (sine), cos (cosine), tan (tangent), and cot (cotangent). 
+To use these functions, enter the function name followed by the number. For example, to calculate the sine of 45 degrees, enter sin45 in the text entry field and press Enter or click the = button. The result will be displayed in the calculator window.
+
+    To clear the input and result, click the C button.
+
+    To exit the calculator, close the calculator window or press Ctrl+C in the terminal or command prompt where the calculator is running.
+
+Note: Make sure to follow the correct syntax for entering expressions. Ensure that there are no spaces between digits and operators, and there are no spaces between function names and numbers.
